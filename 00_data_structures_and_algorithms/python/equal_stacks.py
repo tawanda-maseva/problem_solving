@@ -1,5 +1,3 @@
-import time
-
 def equalStacks(h1, h2, h3):
     '''Function to find the maximum possible height of stacks
     such that all of the stacks are exactly the same height'''
