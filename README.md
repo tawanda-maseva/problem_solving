@@ -1,2 +1,2 @@
 # problem_solving
-A collection of hackerrant problems that l have solved or currently solving
+A collection of hackerrank problems that l have solved or currently solving
